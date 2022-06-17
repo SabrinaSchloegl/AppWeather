@@ -1,7 +1,6 @@
 body {
     font-family: "Inter", sans-serif;
-    background-color: rgb(241, 205, 44);
-}
+    background-color: rgb(241, 205, 44);}
 
 #city-location {
     color: rgb(238, 159, 13);
@@ -35,41 +34,34 @@ h3 {
     background-color: yellow;
     padding: 20px 20px;
     margin-left: 0;
-    color: #fff;
-}
+    color: #fff;}
 
 .weather-detail {
     position: absolute;
     top: 50%;
     right: 0;
-    color: rgb(238, 159, 13);
-}
+    color: rgb(238, 159, 13);}
 
 h4 {
     color: rgb(31, 31, 197);
     font-size: 30px;
     position: relative;
     margin-left: 80px;
-    right: 0px;
-}
+    right: 0px;}
 
 #weather {
     color: rgb(31, 31, 197);
     font-size: 30px;
     position: relative;
     right: 0px;
-    margin-left: 80px;
-}
+    margin-left: 80px;}
 
 .row {
     color: rgba(248, 139, 7, 0.842);
-    font-size: 20px;
-}
+    font-size: 20px;}
 
 .container {
-    background: rgb(241, 205, 44);
-}
+    background: rgb(241, 205, 44);}
 
 .card {
-    background: rgb(248, 248, 131);
-}
+    background: rgb(248, 248, 131);}
